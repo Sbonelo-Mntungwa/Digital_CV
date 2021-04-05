@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+@import url('http://fonts.googleapis.com/css?family=Ubuntu:regular,bold&subset=Latin');
+body{
+    font-family: 'Raleway';
+    background-color: rgb(233, 192, 245);
+}
+hr{
+    border-style: none;
+    border-top: dotted;
+    width: 5%;
+    border-color: gray;
+    border-width: 5px;
+}
+h1{
+    font-family: 'Ubuntu';
+    font-size: 29pt;
+}
+h2{
+    color:#2eb2ff;
+    font-family: 'Merriweather';
+    text-transform: uppercase;
+}
